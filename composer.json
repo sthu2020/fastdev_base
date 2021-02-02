@@ -1,0 +1,21 @@
+{
+    "name": "fastdev/base",
+    "description": "This is a data processing package",
+    "type": "1",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huyao",
+            "email": "2189902522@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Fast\\": "src/fast/"
+        }
+    }
+}
