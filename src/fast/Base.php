@@ -4,6 +4,6 @@ namespace Fast;
 class Base
 {
     function test(){
-        echo "Form Test -> test()";
+        echo "这是最新的";
     }
 }
